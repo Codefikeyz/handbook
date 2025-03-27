@@ -17,7 +17,7 @@ The mathematical expression used in reward computation is referred as _reward cu
 
 The minimum and maximum inflation for stakers reward values of `0.705%` and `3%` are highlighted in the y axis and the ideal staking percentage of `50%` is highlighted in the x axis. The reward curve is such that stakers are incentivised if the the current staking percentage is below the ideal rate and disincentivized if it's above the ideal rate.
 
-The current percentage of supply staked can be inspected in Joystream the [subscan dashboard](https://joystream.subscan.io/)
+The current percentage of supply staked can be inspected in the [Polkadot page](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.joystream.org#/legacy-staking)
 
 ## Staking reward computation
 
